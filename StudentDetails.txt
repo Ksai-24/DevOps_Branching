@@ -1,0 +1,7 @@
+Student Details
+
+Name: Vani
+Course: Computer Science
+Subject: DevOps
+Operating System: Kali Linux
+Experiment: Branching and Merging
